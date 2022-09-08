@@ -1,14 +1,11 @@
-<p>Olá! Meu nome é Giana Medeiros, tenho 29 ano anos, moro em Barueri-SP🙋‍♀️</p> 
+<p>Olá! Sou Giana Medeiros, 29 anos, moro em Barueri-SP🙋‍♀️</p> 
 <p>
-    Sou graduado em Gestão Financeira e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá🎓 </p>
+    Graduada em Gestão Financeira e cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá🎓 </p>
     
     
   <p>
-    No momento estou em transição de carreira buscando uma oportunidade na área da tecnologia, tenho como objetivo atuar especialmente no desenvolvimento 
-    de softwares(programação) com a linguagem Java, a qual pretendo me especializar e adquirir uma maior expertise. 
-    
-    
-   
+    Estou em transição de carreira e busco oportunidades na área da tecnologia. O objetivo é atuar em desenvolvimento 
+    de softwares(programação), especialmente com a linguagem Java.   
   
    
   </p>
