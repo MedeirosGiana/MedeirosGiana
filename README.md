@@ -5,7 +5,7 @@
     
   <p>
     Estou em transição de carreira e busco oportunidades na área da tecnologia. O objetivo é atuar em desenvolvimento 
-    de softwares(programação), especialmente com a linguagem Java.   
+    back-end, especialmente com a linguagem Java.   
     O interesse pela àrea de tecnologia surgiu por afinidade e, após pesquisar nas mídias sociais especializadas sobre os desafios e realizações da carreira,       tive a certeza que, no aspecto profissional, esse é o caminho que desejo trilhar. 
    
   </p>
