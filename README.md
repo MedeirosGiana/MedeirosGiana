@@ -1,4 +1,4 @@
-<p>Olá! Sou Giana Medeiros, 29 anos, moro em Barueri-SP🙋‍♀️</p> 
+<p>Olá! Sou Giana Medeiros, 30 anos, moro em Barueri-SP🙋‍♀️</p> 
 <p>
     Graduada em Gestão Financeira e cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá🎓 </p>
     
