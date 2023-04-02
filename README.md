@@ -1,12 +1,12 @@
 <p>Olá! Sou Giana Medeiros, 30 anos, moro em Barueri-SP🙋‍♀️</p> 
+
 <p>
-    Graduada em Gestão Financeira e cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá🎓 </p>
+    Sou graduada em Gestão Financeira e atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá com previsão de término em junho/2024.🎓  </p>
     
     
   <p>
-    Estou em transição de carreira e busco oportunidades na área da tecnologia. O objetivo é atuar em desenvolvimento 
-    back-end, especialmente com a linguagem Java.   
-    O interesse pela àrea de tecnologia surgiu por afinidade e, após pesquisar nas mídias sociais especializadas sobre os desafios e realizações da carreira,       tive a certeza que, no aspecto profissional, esse é o caminho que desejo trilhar. 
+   Busco oportunidades na área da tecnologia, onde meu objetivo é atuar como Back-End Java Developer.   
+   O interesse pela àrea de tecnologia (programação em específico) surgiu por afinidade, sempre gostei de atuar nos bastidores, encarar novos desafios e após pesquisar sobre os desafios e realizações da área, autonomia e liberdade de trabalho, tive a certeza que, no aspecto profissional, esse é o caminho que desejo trilhar. 
    
   </p>
   
