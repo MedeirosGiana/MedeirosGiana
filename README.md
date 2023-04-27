@@ -1,23 +1,22 @@
-<p>Olá! Sou Giana Medeiros, 30 anos, moro em Barueri-SP🙋‍♀️</p> 
+<p>Olá! Me chamo Giana Medeiros🙋‍♀️</p> 
 
 <p>
-    Sou graduada em Gestão Financeira e atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá com previsão de término em junho/2024.🎓  </p>
+    Sou graduada em Gestão Financeira e atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓  </p>  
     
-    
-  <p>
-   Busco oportunidades na área da tecnologia, onde meu objetivo é atuar como Back-End Java Developer.   
-   O interesse pela àrea de tecnologia (programação em específico) surgiu por afinidade, sempre gostei de atuar nos bastidores, encarar novos desafios e após pesquisar sobre os desafios e realizações da área, autonomia e liberdade de trabalho, tive a certeza que, no aspecto profissional, esse é o caminho que desejo trilhar. 
+  
+  - Sou Desenvolvedora back-end JAVA | Spring boot  e apaixonada por tecnologia e soluções estratégicas.
+  - Tenho experiência em desenvolvimento de sistemas e APIs REST ful utilizando Java e o framework Spring Boot, com o JPA para manipulação de dados.
+  - Sempre busco aprimorar minhas habilidades, e para isso acontecer, estou constante aprendizado
+  - Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções escaláveis e eficientes de software que atendam às necessidades dos usuários.
    
-  </p>
+  
   
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MedeirosGiana&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height="208em"
-/>
-<div align="center">    
-  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosGiana&layout=compact&langs_count=7&theme=buefy"
-/>
+<div>
+  <a href="https://github.com/MedeirosGiana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MedeirosGiana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosGiana&layout=compact&langs_count=7&theme=onedark"/>  
+</div>  
 
 ### Entre em contato comigo!
 
