@@ -5,7 +5,7 @@
     
   
   - Sou Desenvolvedora back-end JAVA | Spring boot  e apaixonada por tecnologia e soluções estratégicas.
-  - Desenvolvo sistemas e APIs REST  utilizando Java e o framework Spring Boot, com a organização do sistema em camadas, deixando o sistema organizado, descoplado, com manutenção e troca de implementação facilitada.
+  - Desenvolvo sistemas e APIs REST  utilizando Java e o framework Spring Boot, com a organização do sistema em camadas, deixando o sistema organizado, desacoplado, com manutenção e troca de implementação facilitada.
   - Utilizo em meus projetos o JPA e Hibernete para mapeamento objeto relacional e persistência de dados.
   - Sempre busco aprimorar minhas habilidades, e para isso acontecer, busco constante aprendizado.
   - Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções escaláveis e eficientes de software que atendam às necessidades dos usuários gerando satisfação.
