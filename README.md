@@ -1,17 +1,16 @@
-<p>Olá! Me chamo Giana Medeiros🙋‍♀️</p> 
+<p>Olá! Sou Giana Medeiros🙋‍♀️</p> 
 
 <p>
-    Sou graduada em Gestão Financeira e atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓  </p>  
+    Graduada em Gestão Financeira e atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓  </p>  
     
   
-  - Sou Desenvolvedora back-end Java | Spring boot  e apaixonada por tecnologia e soluções estratégicas.
-  - Desenvolvo sistemas e APIs REST  utilizando Java e o framework Spring Boot, com a organização do sistema em camadas, deixando o sistema organizado, desacoplado, com manutenção e troca de implementação facilitada.
-  - Utilizo em meus projetos o JPA e Hibernete para mapeamento objeto relacional e persistência de dados.
+  - Sou Desenvolvedora back-end  e apaixonada por tecnologia e soluções estratégicas.
+  - Desenvolvo sistemas e APIs  utilizando a tecnologia Java e o framework Spring Boot.
+  - Tenho conhecimento no sistema de gerenciamento de bancos de dados objeto-relacional de uso geral PostgresSQL.
   - Sempre busco aprimorar minhas habilidades buscando constante aprendizado.
-  - Adoro novos desafios e trabalho em equipe.
+  - Sou curiosa, dedicada, adoro novos desafios, trabalho em equipe e aprender coisas novas.
   - Me adapto facilmente a mudanças.
-  - Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções escaláveis e eficientes de software que atendam às necessidades dos usuários.
-   
+  - Meu objetivo é contribuir para o crescimento da empresa, colaborar com a criação de soluções escaláveis e eficientes de software, atuar com comprometimento e resiliência entregando o meu melhor como profissional.  
   
   
 
@@ -25,7 +24,7 @@
 
   <a href = "mailto:gianamedeiros.00510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giana-medeiros-57147a18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gianalaura5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
     
    
 
