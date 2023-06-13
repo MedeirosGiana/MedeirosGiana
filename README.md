@@ -1,7 +1,8 @@
-<p>Olá! Sou Giana Medeiros🙋‍♀️</p> 
+<p>Olá! Seja muito bem vindo (a).</p> 
 
 <p>
-    Graduada em Gestão Financeira e atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓  </p>  
+    Sou Giana Medeiros, graduada em Gestão Financeira e atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓
+</p>  
     
   
   - Sou Desenvolvedora back-end  e apaixonada por tecnologia e soluções estratégicas.
