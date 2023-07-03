@@ -11,6 +11,7 @@
   - ORM JPA/Hibernete.
   - Gerenciador de dependências Maven.
   - Estruturação de projetos em camadas.
+  - Spring Security-JWT authentication
   - Sempre busco aprimorar minhas habilidades buscando constante aprendizado.
   - Sou curiosa, dedicada, adoro novos desafios, trabalho em equipe e aprender coisas novas.
   - Me adapto facilmente a mudanças.
