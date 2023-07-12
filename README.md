@@ -8,10 +8,12 @@
   - Sou Desenvolvedora back-end  e apaixonada por tecnologia e soluções estratégicas.
   - Desenvolvo sistemas e APIs  utilizando a tecnologia Java e o framework Spring Boot.
   - Tenho conhecimento no sistema de gerenciamento de bancos de dados objeto-relacional PostgresSQL e MySQL.
+  - Conhecimento em banco de dados NoSQL MongoDB.
   - ORM JPA/Hibernete.
   - Gerenciador de dependências Maven.
-  - Estruturação de projetos em camadas.
+  - Estruturação de projetos em camadas(Resource,Service,Repository) seguindo padrão DTO.
   - Spring Security-JWT authentication
+  - Trello.
   - Sempre busco aprimorar minhas habilidades buscando constante aprendizado.
   - Sou curiosa, dedicada, adoro novos desafios, trabalho em equipe e aprender coisas novas.
   - Me adapto facilmente a mudanças.
