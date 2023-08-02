@@ -17,7 +17,10 @@
   - Sempre busco aprimorar minhas habilidades buscando constante aprendizado.
   - Sou curiosa, dedicada, adoro novos desafios, trabalho em equipe e aprender coisas novas.
   - Me adapto facilmente a mudanças.
-  - Meu objetivo é contribuir para o crescimento da empresa, colaborar com a criação de soluções escaláveis e eficientes de software, atuar com comprometimento e resiliência entregando o meu melhor como profissional.  
+  - Fui conquistada pela área da tecnologia por ser dinâmica, transformadora, capaz de conectar as pessoas com o mundo e tornar 
+    processos/tarefas do cotidiano otimizados e práticos que provocam grande impacto na sociedade proporciando um melhor nível de vida.
+  - Meu objetivo é contribuir para o crescimento da empresa, colaborar com a criação de soluções escaláveis e eficientes de software, atuar 
+    com comprometimento e resiliência entregando o meu melhor como profissional.  
   
   
 
