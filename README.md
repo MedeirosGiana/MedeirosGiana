@@ -12,7 +12,8 @@
   - ORM JPA/Hibernete.
   - Gerenciador de dependências Maven.
   - Estruturação de projetos em camadas(Resource,Service,Repository) seguindo padrão DTO.
-  - Spring Security-JWT authentication
+  - Spring Security-JWT authentication.
+  - Conhecimento em testes unitários com JUnit.
   - Trello.
   - Sempre busco aprimorar minhas habilidades buscando constante aprendizado.
   - Sou curiosa, dedicada, adoro novos desafios, trabalho em equipe e aprender coisas novas.
