@@ -25,15 +25,15 @@
   
  <div align="center">
   <a href="https://github.com/MedeirosGiana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=MedeirosGiana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosGiana&layout=compact&langs_count=7&theme=onedark"/> 
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=MedeirosGiana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosGiana&layout=compact&langs_count=7&theme=onedark"/> 
 </a> 
 </div>  
 
 
 <div align='center'>
   <a href="https://github.com/MedeirosGiana">
-    <img height="175em" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=MedeirosGiana&theme=dracula" />
+    <img height="175em" width="70%" src="http://github-readme-streak-stats.herokuapp.com?user=MedeirosGiana&theme=dracula" />
   </a>
 </div>
  
