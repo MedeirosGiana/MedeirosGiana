@@ -5,7 +5,7 @@
 </p>  
     
   
-  - Sou Desenvolvedora back-end  e apaixonada por tecnologia e soluções estratégicas.
+  - Sou apaixonada por tecnologia e soluções estratégicas.
   - Desenvolvo sistemas e APIs  utilizando a tecnologia Java e o framework Spring Boot.
   - Tenho conhecimento em: sistema de gerenciamento de bancos de dados objeto-relacional PostgresSQL e MySQL;
      . Banco de dados NoSQL MongoDB;
