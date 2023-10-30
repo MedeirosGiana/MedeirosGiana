@@ -1,40 +1,44 @@
 <p>Olá! Seja muito bem vindo (a).</p> 
 
 <p>
-    Sou Giana Medeiros, graduada em Gestão Financeira e atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.🎓
-</p>  
+    Estou buscando uma empolgante transição de carreira para a área de desenvolvimento de software e serviços em 
+    nuvem AWS, alavancando minha formação em Gestão Financeira e o conhecimento adquirido em Análise e 
+    Desenvolvimento de Sistemas. Meu objetivo é aplicar minha determinação e habilidades transferíveis para criar 
+    soluções inovadoras, escaláveis e eficientes, contribuindo para o sucesso de equipes de desenvolvimento de software e
+    desenvolvimento na nuvem.
     
-  
-  - Sou apaixonada por tecnologia e soluções estratégicas.
-  - Desenvolvo sistemas e APIs  utilizando a tecnologia Java e o framework Spring Boot.
-  - Tenho conhecimento em: sistema de gerenciamento de bancos de dados objeto-relacional PostgresSQL e MySQL;
-     . Banco de dados NoSQL MongoDB;
-     . ORM JPA/Hibernete;
-     . Gerenciador de dependências Maven;
-     . Estruturação de projetos em camadas(Resource,Service,Repository) seguindo padrão DTO;
-     . Spring Security-JWT authentication;
-     . Conhecimento em testes unitários com JUnit;
+</p>  
 
-  - Sempre busco aprimorar minhas habilidades buscando constante aprendizado;
-  - Sou curiosa, dedicada, adoro novos desafios e um ambiente diverso e colaborativo, trabalho em equipe e aprender coisas novas;
-  - Me adapto facilmente a mudanças.
-  - Fui conquistada pela área da tecnologia por ser dinâmica, transformadora, capaz de conectar as pessoas com o mundo e tornar 
-    processos/tarefas do cotidiano otimizados e práticos que provocam grande impacto na sociedade proporciando um melhor nível de vida.
-  - Meu objetivo é contribuir para o crescimento da empresa, colaborar com a criação de soluções escaláveis e eficientes de software, atuar 
-    com comprometimento e resiliência entregando o meu melhor como profissional.  
+  - Desenvolvo sistemas e APIs  utilizando a tecnologia Java e o framework Spring Boot
+  - Tenho conhecimento em: 
+     - Banco de dados NoSQL MongoDB;
+     - Banco de Dados PostegresSQL;
+     - Banco de Dados MySQL;
+     - linguagem SQL
+     - ORM JPA/Hibernete;
+     - Gerenciador de dependências Maven;
+     - Estruturação de projetos em camadas(Resource,Service,Repository) seguindo padrão DTO;
+     - Arquitetura MVC
+     - Spring Security-JWT authentication;
+     - Conhecimento em testes unitários com JUnit;
+     - Postman;
+     - IDE Eclipse;
+     - IDE Intellij;
+     - Ferramenta Trello;
+
+       
   
  <div align="center">
   <a href="https://github.com/MedeirosGiana">
   <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosGiana&layout=compact&langs_count=7&theme=onedark"/> 
 </a> 
+ <a href="https://github.com/MedeirosGiana">
+    <img height="175em" width="70%" src="http://github-readme-streak-stats.herokuapp.com?user=MedeirosGiana&theme=dracula" />
+  </a>
 </div>  
 
 
-<div align='center'>
-  <a href="https://github.com/MedeirosGiana">
-    <img height="175em" width="70%" src="http://github-readme-streak-stats.herokuapp.com?user=MedeirosGiana&theme=dracula" />
-  </a>
-</div>
+
  
   ### Entre em contato comigo!
 
